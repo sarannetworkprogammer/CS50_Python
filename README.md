@@ -1,6 +1,6 @@
 # CS50_Python
 CS50 Python solutions 
 
-#Course link :
+Course link :
 
-#Project :
+Project :
