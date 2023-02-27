@@ -9,16 +9,16 @@ This repository contains my solutions to the problem sets of CS50's Introduction
 
 
 
-WEEK 0 : [Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
-WEEK 1 : [Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
-WEEK 2 : [Loops](https://cs50.harvard.edu/python/2022/psets/2/)
-WEEK 3 : [Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)
-WEEK 4 : [Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
-WEEK 5 : [Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
-WEEK 6 : [File I/O](https://cs50.harvard.edu/python/2022/psets/6/)
-WEEK 7 : [Regular Expressions](https://cs50.harvard.edu/python/2022/psets/7/)
-WEEK 8 : [Object Oriented Programming](https://cs50.harvard.edu/python/2022/psets/8/)
-WEEK 9 : FINAL PROJECT
+WEEK 0 : [Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)  
+WEEK 1 : [Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)  
+WEEK 2 : [Loops](https://cs50.harvard.edu/python/2022/psets/2/)  
+WEEK 3 : [Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)  
+WEEK 4 : [Libraries](https://cs50.harvard.edu/python/2022/psets/4/)  
+WEEK 5 : [Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)  
+WEEK 6 : [File I/O](https://cs50.harvard.edu/python/2022/psets/6/)  
+WEEK 7 : [Regular Expressions](https://cs50.harvard.edu/python/2022/psets/7/)  
+WEEK 8 : [Object Oriented Programming](https://cs50.harvard.edu/python/2022/psets/8/)  
+WEEK 9 : FINAL PROJECT  
 
 
 
