@@ -1,4 +1,4 @@
-# CS50_Python
+# CS50_Python : This Course is from Harvard University
 CS50 Python solutions 
 
 ## [Course_link](https://cs50.harvard.edu/python/2022/)
